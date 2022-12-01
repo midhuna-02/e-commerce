@@ -1,0 +1,14 @@
+.links{
+    display: flex;
+    justify-content: end;
+    margin-right: 0 !important;
+    width: 100%;
+
+}
+.bg-blue{
+    background-color:#e3f2fd; ;
+}
+.nav-link{
+    color: black !important;
+    font-size: 15px !important;
+}
